@@ -20,13 +20,13 @@ This application introduces four main human internal organs:
 ## ✨ Features
 
 - **Main Menu** – Provides easy navigation to the available application sections.
-- <img width="718" height="1600" alt="Home" src="https://github.com/user-attachments/assets/fe37fa15-8348-41c2-9b55-2d33226c20d3" />
+  <img width="718" height="1600" alt="Home" src="https://github.com/user-attachments/assets/fe37fa15-8348-41c2-9b55-2d33226c20d3" />
 - **Organ Information** – Displays educational information about the heart, brain, stomach, and lungs.
-- <img width="718" height="1600" alt="Information" src="https://github.com/user-attachments/assets/00d4e363-d856-4b18-8dc5-af9713ee3752" />
+  <img width="718" height="1600" alt="Information" src="https://github.com/user-attachments/assets/00d4e363-d856-4b18-8dc5-af9713ee3752" />
 - **QR Code Scanner** – Provides a QR code scanning feature to access specific application content.
-- <img width="718" height="1600" alt="Scan QR" src="https://github.com/user-attachments/assets/f6047f20-f820-4dd1-bd64-6f08e2744832" />
+  <img width="718" height="1600" alt="Scan QR" src="https://github.com/user-attachments/assets/f6047f20-f820-4dd1-bd64-6f08e2744832" />
 - **Credit** – Displays information about the developers and contributors involved in the project.
-- <img width="718" height="1600" alt="Credit" src="https://github.com/user-attachments/assets/850fdd28-287e-4409-9771-ee83d08b4eb3" />
+  <img width="718" height="1600" alt="Credit" src="https://github.com/user-attachments/assets/850fdd28-287e-4409-9771-ee83d08b4eb3" />
 - **Simple User Interface** – Features a straightforward interface designed for an accessible learning experience.
 
 ## 🛠️ Built With
