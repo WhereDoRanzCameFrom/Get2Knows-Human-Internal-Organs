@@ -52,21 +52,6 @@ Human-Internal-Organs/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
-
-2. Open Unity Hub.
-3. Select **Add Project from Disk**.
-4. Select the downloaded project folder.
-5. Open the project using a compatible Unity version.
-6. Open the Main Menu scene and press the Play button.
 
 ## 🎯 Project Objective
 
